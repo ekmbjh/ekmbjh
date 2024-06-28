@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <!-- Header -->
 ## Hi, I'm Junghun Baek. 👋 <br>
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&edge_flat=false&title=hits)
-
 🌱 I’m currently learning Backend
 
 ### Education
@@ -49,7 +47,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=black"/>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Asciidoctor-E40046?style=flat-square&logo=Asciidoctor&logoColor=white"/>
 
 ### Tools
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
