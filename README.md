@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <br>
 `2023.03 - 2024.02` National Institute for Lifelong Education, Computer Engineering
 <br>
-`2022.01 - 2022.06` Yonsei IT Future Education Institute
+`2022.01 - 2022.06` Yonsei IT Future Education Institute, Unity Game Dev Course
 <br>
-`2021.12 - 2022.04` 42 Seoul Cadet
+`2021.12 - 2022.04` 42 Seoul, Cadet
 <br>
 `2011.03 - 2015.02` Cheongju University, Architectural Engineering
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### Social
 <a href="https://doeatnow.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000.svg?&style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://www.notion.so/Baek-s_Portfolio-9132d447a8454293affd2aa55a7aa0bc?pvs=4"><img src="https://img.shields.io/badge/resume-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/%EC%9D%B8%EC%B0%BD-%EC%B5%9C-9b162a241/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=black"/></a>
+<!--a href="https://www.linkedin.com/in/%EC%9D%B8%EC%B0%BD-%EC%B5%9C-9b162a241/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=black"/!><!--/a-->
   
 ### Tech
 <img src="https://img.shields.io/badge/Java-26689A?style=flat-square&logo=OpenJDK&logoColor=white"/>
