@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
-## Hi, I'm Junghun Baek. 👋 
-<br>
+## Hi, I'm Junghun Baek. 👋 <br>
+
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&edge_flat=false&title=hits)
 
 🌱 I’m currently learning Backend
 
-#### 📗: Education
+### Education
 `2024.06 -` SeSAC Academy, Java Backend Dev Course
 <br>
 `2023.12 - 2024.05` Shinsegae I&C, Java Backend Dev Course
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 `2021.12 - 2022.04` 42 Seoul Cadet
 <br>
 `2011.03 - 2015.02` Cheongju University, Architectural Engineering
+
+---
 
 <div align="center">
 
@@ -60,8 +62,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazone_AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 
 ### Badge
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekmbjh&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekmbjh&theme=default&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekmbjh&exclude_repo=ks-web&layout=compact&hide=mustache)
+
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekmbjh)
 
 </div>
