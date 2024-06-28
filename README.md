@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
+
+
 ### Tools
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
@@ -57,6 +59,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazone_AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
 
 ### Badge
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekmbjh&theme=default&show_icons=true)
