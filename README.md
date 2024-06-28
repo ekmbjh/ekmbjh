@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### Social
-<a href="https://velog.io/@justsaturday"><img src="https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>
-<a href="https://www.notion.so/CHOI-IN-CHANG-0c801ea3cf6940f7a97d1eec4dc58d8b"><img src="https://img.shields.io/badge/resume-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+<a href="https://doeatnow.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000.svg?&style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://www.notion.so/Baek-s_Portfolio-9132d447a8454293affd2aa55a7aa0bc?pvs=4"><img src="https://img.shields.io/badge/resume-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/%EC%9D%B8%EC%B0%BD-%EC%B5%9C-9b162a241/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=black"/></a>
   
 ### Tech
