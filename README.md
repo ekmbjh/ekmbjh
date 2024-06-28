@@ -44,11 +44,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-26689A?style=flat-square&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=black"/>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=black"/>
+<img src="https://img.shields.io/badge/MyBatis-BE3939.svg?&style=flat-square&logo=MyBatis3&logoColor=white"/>
 
-
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=flat-square&logo=Thymeleaf&logoColor=white"/>
 
 ### Tools
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
@@ -59,7 +64,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazone_AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/>
 
 ### Badge
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekmbjh&theme=default&show_icons=true)
