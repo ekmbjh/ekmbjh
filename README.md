@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Backend
 
 ### Education
-`2024.06 -` SeSAC Academy, Java Backend Dev Course
+`2024.06 - 2024.08` SeSAC Academy, Java Backend Dev Course
 <br>
 `2023.12 - 2024.05` Shinsegae I&C, Java Backend Dev Course
 <br>
