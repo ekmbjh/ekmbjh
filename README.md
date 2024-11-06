@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
-## Hi, I'm Junghun Baek. 👋 <br>
+## Hi, I'm Junghun Baek. 👋  <br>
 
 🌱 I’m currently learning Backend
 
