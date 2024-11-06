@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
-## Hi, I'm Junghun Baek. 👋  <br>
-
-🌱 I’m currently learning Backend
+## Hi, I'm Junghun Baek. 👋  <br> 
 
 ### Education
 `2024.06 - 2024.08` SeSAC Academy, Java Backend Dev Course
